@@ -238,6 +238,3 @@ dotnet run security "h := l; l := h" '{"lattice":[{"from":"low","into":"high"}],
     └── Parse.fs
 ```
 
----
-
-**Note:** This was developed as coursework for DTU's 02141 Computer Science Modelling implementing fundamental concepts in programming language theory, formal methods, and program analysis. 
