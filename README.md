@@ -1,6 +1,6 @@
 # Guarded Command Language Compiler, Intepreter and Program Analysis
 
-A compiler, interpreter and program analysis suite for the Guarded Command Language (GCL). It was developed as part of the 02141 Computer Science Modelling course at the Technical University of Denmark with Jacopo Ceccuti. This project implements a complete toolchain from lexical analysis through program verification and security analysis.
+It was developed as part of the 02141 Computer Science Modelling course at the Technical University of Denmark with Jacopo Ceccuti. This project implements a complete toolchain from lexical analysis through program verification and security analysis.
 
 ![Structure of the Project](overview.png)
 
